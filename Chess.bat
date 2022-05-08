@@ -1,1 +1,0 @@
-python -m trace -t --ignore-dir C:\Python36 .\ChessMain.py
